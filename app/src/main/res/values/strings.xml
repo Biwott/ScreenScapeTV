@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenScape</string>
+
+    <string name="error_title">Can\'t reach ScreenScape</string>
+    <string name="error_body">Check that your TV is connected to the internet, then try again.</string>
+    <string name="retry">Try again</string>
+
+    <string name="exit_title">Leave ScreenScape?</string>
+    <string name="exit_body">You\'re at the start of your history. Press Exit to close the app.</string>
+    <string name="exit_stay">Stay</string>
+    <string name="exit_go">Exit</string>
+
+    <string name="mode_pointer">Pointer mode — D-pad moves the cursor</string>
+    <string name="mode_focus">Focus mode — D-pad moves between links</string>
+</resources>
